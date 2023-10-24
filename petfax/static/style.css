@@ -1,0 +1,26 @@
+body{
+    background-color:light-blue;
+}
+
+h1{
+    color:green;
+}
+h2{
+    color:purple;
+}
+
+img{
+    width:250px;
+    height:250px;
+}
+#container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+
+}
+.item{
+    display:flex;
+    flex-direction: column;
+}
